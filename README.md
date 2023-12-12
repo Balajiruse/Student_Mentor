@@ -1,1 +1,1 @@
-Sudent And Mentors
+Students And Mentors
