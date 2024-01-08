@@ -30,12 +30,11 @@ The Mentor-Student Node.js App is a web application built with Node.js, Express,
 5. Copy the link and use in Postman/any Suitable software
 
 
-###images
-![image](https://github.com/Suryaprakash-G26/mentorstudent/assets/141228691/0b691091-0b6a-48f7-b48b-7c1cb59fc7b3)
+
 
 
 ### deployed Link 
-[Click to op)[https://stu-c3eo.onrender.com/]
+[Click to op](https://stu-c3eo.onrender.com/)
 
 
 
